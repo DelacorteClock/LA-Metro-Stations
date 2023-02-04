@@ -1,4 +1,5 @@
-﻿    {
+﻿[
+    {
         "line": "Blue",
         "letter": "A",
         "hex": "#0072BC",
@@ -8,3 +9,4 @@
         "logoUrl": "https://www.metro.net/wp-content/themes/lifeboat/assets/img/svg/schedules/icon-line-801.svg",
         "infoUrl": "https://www.metro.net/riding/schedules/?line=801"
     }
+]
