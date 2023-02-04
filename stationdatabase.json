@@ -1,0 +1,482 @@
+﻿[
+    {
+        "name": "103rd Street / Watts Towers ",
+        "id": "80113",
+        "line": "Blue"
+    },
+    {
+        "name": "17th St / SMC",
+        "id": "80138",
+        "line": "Expo"
+    },
+    {
+        "name": "1st Street",
+        "id": "80153",
+        "line": "Blue"
+    },
+    {
+        "name": "26th St / Bergamot",
+        "id": "80137",
+        "line": "Expo"
+    },
+    {
+        "name": "5th Street",
+        "id": "80154",
+        "line": "Blue"
+    },
+    {
+        "name": "7th St / Metro Center (Light Rail)",
+        "id": "80122",
+        "line": "BlueExpo"
+    },
+    {
+        "name": "7th St / Metro Center (Heavy Rail)",
+        "id": "80211",
+        "line": "RedPurple"
+    },
+    {
+        "name": "Allen",
+        "id": "80420",
+        "line": "Gold"
+    },
+    {
+        "name": "Anaheim Street",
+        "id": "80105",
+        "line": "Blue"
+    },
+    {
+        "name": "APU / Citrus College",
+        "id": "80427",
+        "line": "Gold"
+    },
+    {
+        "name": "Arcadia",
+        "id": "80422",
+        "line": "Gold"
+    },
+    {
+        "name": "Artesia",
+        "id": "80110",
+        "line": "Blue"
+    },
+    {
+        "name": "Atlantic",
+        "id": "80401",
+        "line": "Gold"
+    },
+    {
+        "name": "Avalon",
+        "id": "80310",
+        "line": "Green"
+    },
+    {
+        "name": "Aviation / LAX",
+        "id": "80305",
+        "line": "Green"
+    },
+    {
+        "name": "Azusa Downtown",
+        "id": "80426",
+        "line": "Gold"
+    },
+    {
+        "name": "Chinatown",
+        "id": "80410",
+        "line": "Gold"
+    },
+    {
+        "name": "Civic Center / Grand Park",
+        "id": "80213",
+        "line": "RedPurple"
+    },
+    {
+        "name": "Compton",
+        "id": "80111",
+        "line": "Blue"
+    },
+    {
+        "name": "Crenshaw",
+        "id": "80307",
+        "line": "Green"
+    },
+    {
+        "name": "Culver City",
+        "id": "80132",
+        "line": "Expo"
+    },
+    {
+        "name": "Del Amo",
+        "id": "80109",
+        "line": "Blue"
+    },
+    {
+        "name": "Del Mar",
+        "id": "80417",
+        "line": "Gold"
+    },
+    {
+        "name": "Douglas",
+        "id": "80302",
+        "line": "Green"
+    },
+    {
+        "name": "Downtown Long Beach",
+        "id": "80101",
+        "line": "Blue"
+    },
+    {
+        "name": "Downtown Santa Monica",
+        "id": "80139",
+        "line": "Expo"
+    },
+    {
+        "name": "Duarte / City of Hope",
+        "id": "80424",
+        "line": "Gold"
+    },
+    {
+        "name": "East LA Civic Center",
+        "id": "80402",
+        "line": "Gold"
+    },
+    {
+        "name": "El Segundo",
+        "id": "80303",
+        "line": "Green"
+    },
+    {
+        "name": "Expo / Bundy",
+        "id": "80136",
+        "line": "Expo"
+    },
+    {
+        "name": "Expo / Crenshaw",
+        "id": "80128",
+        "line": "Expo"
+    },
+    {
+        "name": "Expo / La Brea",
+        "id": "80130",
+        "line": "Expo"
+    },
+    {
+        "name": "Expo / Sepulveda",
+        "id": "80135",
+        "line": "Expo"
+    },
+    {
+        "name": "Expo / Vermont",
+        "id": "80126",
+        "line": "Expo"
+    },
+    {
+        "name": "Expo / Western",
+        "id": "80127",
+        "line": "Expo"
+    },
+    {
+        "name": "Expo Park / USC",
+        "id": "80125",
+        "line": "Expo"
+    },
+    {
+        "name": "Farmdale",
+        "id": "80129",
+        "line": "Expo"
+    },
+    {
+        "name": "Fillmore",
+        "id": "80416",
+        "line": "Gold"
+    },
+    {
+        "name": "Firestone",
+        "id": "80114",
+        "line": "Blue"
+    },
+    {
+        "name": "Florence",
+        "id": "80115",
+        "line": "Blue"
+    },
+    {
+        "name": "Grand / LATTC",
+        "id": "80120",
+        "line": "Blue"
+    },
+    {
+        "name": "Harbor Freeway",
+        "id": "80309",
+        "line": "Green"
+    },
+    {
+        "name": "Hawthorne / Lennox",
+        "id": "80306",
+        "line": "Green"
+    },
+    {
+        "name": "Heritage Square / Arroyo",
+        "id": "80412",
+        "line": "Gold"
+    },
+    {
+        "name": "Highland Park",
+        "id": "80414",
+        "line": "Gold"
+    },
+    {
+        "name": "Hollywood / Highland",
+        "id": "80203",
+        "line": "Red"
+    },
+    {
+        "name": "Hollywood / Vine",
+        "id": "80204",
+        "line": "Red"
+    },
+    {
+        "name": "Hollywood / Western",
+        "id": "80205",
+        "line": "Red"
+    },
+    {
+        "name": "Indiana",
+        "id": "80404",
+        "line": "Gold"
+    },
+    {
+        "name": "Irwindale",
+        "id": "80425",
+        "line": "Gold"
+    },
+    {
+        "name": "Jefferson / USC",
+        "id": "80124",
+        "line": "Expo"
+    },
+    {
+        "name": "La Cienega / Jefferson",
+        "id": "80131",
+        "line": "Expo"
+    },
+    {
+        "name": "Lake",
+        "id": "80419",
+        "line": "Gold"
+    },
+    {
+        "name": "Lakewood Blvd",
+        "id": "80313",
+        "line": "Green"
+    },
+    {
+        "name": "LATTC / Ortho Institute",
+        "id": "80123",
+        "line": "Expo"
+    },
+    {
+        "name": "Lincoln Heights / Cypress Park",
+        "id": "80411",
+        "line": "Gold"
+    },
+    {
+        "name": "Little Tokyo / Arts District",
+        "id": "80408",
+        "line": "Gold"
+    },
+    {
+        "name": "Long Beach Blvd",
+        "id": "80312",
+        "line": "Green"
+    },
+    {
+        "name": "Maravilla",
+        "id": "80403",
+        "line": "Gold"
+    },
+    {
+        "name": "Mariachi Plaza / Boyle Heights",
+        "id": "80406",
+        "line": "Gold"
+    },
+    {
+        "name": "Mariposa",
+        "id": "80304",
+        "line": "Green"
+    },
+    {
+        "name": "Memorial Park",
+        "id": "80418",
+        "line": "Gold"
+    },
+    {
+        "name": "Monrovia",
+        "id": "80423",
+        "line": "Gold"
+    },
+    {
+        "name": "North Hollywood",
+        "id": "80201",
+        "line": "Red"
+    },
+    {
+        "name": "Norwalk",
+        "id": "80314",
+        "line": "Green"
+    },
+    {
+        "name": "Pacific Ave",
+        "id": "80102",
+        "line": "Blue"
+    },
+    {
+        "name": "Pacific Coast Hwy",
+        "id": "80106",
+        "line": "Blue"
+    },
+    {
+        "name": "Palms",
+        "id": "80133",
+        "line": "Expo"
+    },
+    {
+        "name": "Pershing Square",
+        "id": "80212",
+        "line": "RedPurple"
+    },
+    {
+        "name": "Pico / Aliso",
+        "id": "80407",
+        "line": "Gold"
+    },
+    {
+        "name": "Pico",
+        "id": "80121",
+        "line": "BlueExpo"
+    },
+    {
+        "name": "Redondo Beach",
+        "id": "80301",
+        "line": "Green"
+    },
+    {
+        "name": "San Pedro Street",
+        "id": "80119",
+        "line": "Blue"
+    },
+    {
+        "name": "Sierra Madre Villa",
+        "id": "80421",
+        "line": "Gold"
+    },
+    {
+        "name": "Slauson",
+        "id": "80116",
+        "line": "Blue"
+    },
+    {
+        "name": "Soto",
+        "id": "80405",
+        "line": "Gold"
+    },
+    {
+        "name": "South Pasadena",
+        "id": "80415",
+        "line": "Gold"
+    },
+    {
+        "name": "Southwest Museum",
+        "id": "80413",
+        "line": "Gold"
+    },
+    {
+        "name": "Union Station (Light Rail)",
+        "id": "80409",
+        "line": "Gold"
+    },
+    {
+        "name": "Union Station (Heavy Rail)",
+        "id": "80214",
+        "line": "Red"
+    },
+    {
+        "name": "Universal / Studio City",
+        "id": "80202",
+        "line": "Red"
+    },
+    {
+        "name": "Vermont / Athens",
+        "id": "80308",
+        "line": "Green"
+    },
+    {
+        "name": "Vermont / Beverly",
+        "id": "80208",
+        "line": "Red"
+    },
+    {
+        "name": "Vermont / Santa Monica",
+        "id": "80207",
+        "line": "Red"
+    },
+    {
+        "name": "Vermont / Sunset",
+        "id": "80206",
+        "line": "Red"
+    },
+    {
+        "name": "Vernon",
+        "id": "80117",
+        "line": "Blue"
+    },
+    {
+        "name": "Wardlow",
+        "id": "80108",
+        "line": "Blue"
+    },
+    {
+        "name": "Washington",
+        "id": "80118",
+        "line": "Blue"
+    },
+    {
+        "name": "Westlake / MacArthur Park",
+        "id": "80210",
+        "line": "RedPurple"
+    },
+    {
+        "name": "Westwood / Rancho Park",
+        "id": "80134",
+        "line": "Expo"
+    },
+    {
+        "name": "Willow Street",
+        "id": "80107",
+        "line": "Blue"
+    },
+    {
+        "name": "Willowbrook - Rosa Parks (Blue Line)",
+        "id": "80112",
+        "line": "Blue"
+    },
+    {
+        "name": "Willowbrook - Rosa Parks (Green Line)",
+        "id": "80311",
+        "line": "Green"
+    },
+    {
+        "name": "Wilshire / Normandie",
+        "id": "80215",
+        "line": "Purple"
+    },
+    {
+        "name": "Wilshire / Vermont",
+        "id": "80209",
+        "line": "RedPurple"
+    },
+    {
+        "name": "Wilshire / Western",
+        "id": "80216",
+        "line": "Purple"
+    }
+]
