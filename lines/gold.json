@@ -1,0 +1,12 @@
+﻿[
+    {
+        "line": "Gold",
+        "letter": "L",
+        "hex": "#FDB913",
+        "terminal1": "Union Station (Light Rail)",
+        "terminal2": "Atlantic Station",
+        "weight": "Light",
+        "logoUrl": "https://www.metro.net/wp-content/themes/lifeboat/assets/img/svg/schedules/icon-line-804.svg",
+        "infoUrl": "https://www.metro.net/riding/schedules/?line=804"
+    }
+]
