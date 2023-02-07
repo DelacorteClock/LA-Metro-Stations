@@ -25,12 +25,12 @@
         "line": "Blue"
     },
     {
-        "name": "7th St / Metro Center (LR Platform)",
+        "name": "7th St / Metro Centre (LR Platform)",
         "id": "80122",
         "line": "BlueExpo"
     },
     {
-        "name": "7th St / Metro Center (HR Platform)",
+        "name": "7th St / Metro Centre (HR Platform)",
         "id": "80211",
         "line": "RedPurple"
     },
@@ -85,7 +85,7 @@
         "line": "Gold"
     },
     {
-        "name": "Civic Center / Grand Park",
+        "name": "Civic Centre / Grand Park",
         "id": "80213",
         "line": "RedPurple"
     },
@@ -135,7 +135,7 @@
         "line": "Gold"
     },
     {
-        "name": "East LA Civic Center",
+        "name": "East LA Civic Centre",
         "id": "80402",
         "line": "Gold"
     },
@@ -205,7 +205,7 @@
         "line": "Blue"
     },
     {
-        "name": "Harbor Freeway",
+        "name": "Harbour Freeway",
         "id": "80309",
         "line": "Green"
     },
