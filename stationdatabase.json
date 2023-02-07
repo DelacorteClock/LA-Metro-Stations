@@ -25,12 +25,12 @@
         "line": "Blue"
     },
     {
-        "name": "7th St / Metro Center (Light Rail)",
+        "name": "7th St / Metro Center (LR Platform)",
         "id": "80122",
         "line": "BlueExpo"
     },
     {
-        "name": "7th St / Metro Center (Heavy Rail)",
+        "name": "7th St / Metro Center (HR Platform)",
         "id": "80211",
         "line": "RedPurple"
     },
@@ -390,12 +390,12 @@
         "line": "Gold"
     },
     {
-        "name": "Union Station (Light Rail)",
+        "name": "Union Station (LR Platform)",
         "id": "80409",
         "line": "Gold"
     },
     {
-        "name": "Union Station (Heavy Rail)",
+        "name": "Union Station (HR Platform)",
         "id": "80214",
         "line": "Red"
     },
